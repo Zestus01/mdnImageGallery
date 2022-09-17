@@ -41,3 +41,19 @@ button {
   float: left;
   cursor: pointer;
 }
+/*
+.full-img2 {
+  position: relative;
+  display: block;
+  width: 640px;
+  height: 480px;
+}
+
+.overlay2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 640px;
+  height: 480px;
+  background-color: rgba(0,0,0,0);
+}
